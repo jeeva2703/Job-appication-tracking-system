@@ -1,1 +1,1 @@
-# Job-appication-tracking-system
+# Job-application-tracking-system
